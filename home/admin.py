@@ -6,6 +6,7 @@ admin.site.register(Service)
 admin.site.register(Contact)
 admin.site.register(Testimonial)
 admin.site.register(Product)
+admin.site.register(Information)
 
 
 # Register your models here.
